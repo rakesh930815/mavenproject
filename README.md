@@ -1,2 +1,2 @@
 # mavenproject
-sample project for to use
+sample project for any one to use
